@@ -25,12 +25,15 @@ body {
     border-radius: 1.45rem;
 
     .image-container {
-      height: 26rem;
+      display: flex;
+      align-items: center;
+      // height: 26rem;
+      margin: auto;
 
       .img {
-        position: absolute;
-        width: 38rem;
-        left: 3rem;
+        position: relative;
+        width: 35rem;
+        left: -10rem;
       }
     }
 
