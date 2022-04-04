@@ -29,5 +29,7 @@ Instale a extensão Live-server e depois clique no botão inferior direito Go Li
  <br />
 
 <h4 align="center"> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Ramires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagoramires/)](https://www.linkedin.com/in/yagoramires/)
+
 </h4>
